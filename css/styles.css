@@ -87,6 +87,13 @@ img {
      border: 0p;
  }
 
+ .card-img.list.card-set-item {
+     margin: 15px;
+ }
+ 
+  .card-img.list.card-set-item:nth-child(3n) {
+    margin-right: 0;
+  }
 
 
 
